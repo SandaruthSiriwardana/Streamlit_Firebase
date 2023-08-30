@@ -5,14 +5,14 @@ from datetime import datetime
 
 # Configeration keys
 firebaseConfig = {
-  'apiKey': "AIzaSyCn7-xVi0NBsRp-LIKiTFLPFXQDHqMJeo0",
-  "authDomain": "buildstreamlit.firebaseapp.com",
-  "databaseURL": "https://buildstreamlit-default-rtdb.firebaseio.com",
-  "projectId": "buildstreamlit",
-  "storageBucket": "buildstreamlit.appspot.com",
-  "messagingSenderId": "549954845792",
-  "appId": "1:549954845792:web:dc443ef9bc66703c949705",
-  "measurementId": "G-7RF1X2RXCR"
+  'apiKey': "",
+  "authDomain": "",
+  "databaseURL": "",
+  "projectId": "",
+  "storageBucket": "",
+  "messagingSenderId": "",
+  "appId": "",
+  "measurementId": ""
 }
 
 # Firebase Authentication
