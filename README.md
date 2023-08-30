@@ -8,13 +8,9 @@
 ## Project Description
 Aimple application for connect python streamlit and Firebase Authentication , Firebas Realtime Database and Firebase Storage.
 ## Getting Started
-install pyrebase - 
+install requirements - 
 ```bash 
-pip install pyrebase4
-```
-install streamlit -
-``` bash
-pip install streamlit
+pip install -r .\requirements.txt
 ```
 ## Usage
 ### Firebase SDK Setup and Configuration
